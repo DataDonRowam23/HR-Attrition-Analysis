@@ -58,7 +58,8 @@ Insights:
 Attrition rises “in every 7 years” and that it is influenced strongly by salary and job role, especially among employees aged 26 to 35, across Human Resources, Research & Development, and Sales.
 It also claims lower salary bands are associated with more attrition, recent hires leave more often than long-tenured employees, and some smaller job-role groups show higher attrition rates
 
-Below is the overview page from the PowerBI dashboard and more examples are included throughout the report. 
+Below is the overview page from the PowerBI dashboard and more examples are included throughout the report.
+
 The entire interactive dashboard can be downloaded here.
 
 # Dashboard Overview
