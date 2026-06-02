@@ -30,8 +30,11 @@ An assessment of the employees' loyalty to the company.
 An evaluation of professions and gender by Count.
 
 An interactive PowerBI dashboard can be downloaded here.
+
 The dataset utilized to inspect and perform quality checks can be found here.
+
 The Power Query Steps utilized to clean, organize, and prepare data for the dashboard can be found here.
+
 Targeted metadata regarding various business questions can be found in the power query above.
 
 # Data Structure & Initial Checks
