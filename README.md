@@ -8,12 +8,23 @@ Ridev , established in 1985, is a global research company that carries out major
 This project thoroughly analyzes and synthesizes this data in order to uncover critical insights that will reduce Ridev's Attrition Rate and improve employee retention.
 
 # Overall Thought Process
-1. I noticed that this is a business diagnostic problem. The company already had employee data but had previously been underutilized, therefore need to convert raw HR records into actionable management insights.
-2.  Attrition is expensive, so the real stakeholder reasoning here is "what patterns among employees are associated with leaving", not who left. This narrows down into analysis tracks: attrition by education,salary,years at company,job role.
- I'm treating attrition as the depended business outcome and employee characteristics as the potential explanatory drivers.               # Logic behind Analytical framing:
-  1. Defining the outcome variable clearly(the outcome is attrition , meaning whether an employee leaves the company or stays)                2. Segmenting the workforce by relevant attributes: education , salary, job role, department , gender and age.
-     3. Compare attrition rates across those groups like: Do lower paid employees leave more often?
-       4. Translate the findings into retention action: pay review, flexibility, ups killing and better hiring alignment.                   The underlying thought process is basically : find high risk employee segments, infer likely causes and suggest interventions
+
+I noticed that this is a business diagnostic problem. The company already had employee data but had previously been underutilized, therefore need to convert raw HR records into actionable management insights.
+
+Attrition is expensive, so the real stakeholder reasoning here is "what patterns among employees are associated with leaving", not who left. This narrows down into analysis tracks: attrition by education,salary,years at company,job role.
+
+ I'm treating attrition as the depended business outcome and employee characteristics as the potential explanatory drivers.     
+ 
+ # Logic behind Analytical framing:
+ - Defining the outcome variable clearly(the outcome is attrition , meaning whether an employee leaves the company or stays)
+ 
+ - Segmenting the workforce by relevant attributes: education , salary, job role, department , gender and age.
+ 
+ - Compare attrition rates across those groups like: Do lower paid employees leave more often?
+ 
+ - Translate the findings into retention action: pay review, flexibility, ups killing and better hiring alignment.                 
+ 
+ The underlying thought process is basically: to find high risk employee segments, infer likely causes and suggest interventions
 
 #Insights and recommendations are provided on the following key areas of Analysis:
 
