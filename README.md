@@ -60,7 +60,7 @@ It also claims lower salary bands are associated with more attrition, recent hir
 
 Below is the overview page from the PowerBI dashboard and more examples are included throughout the report.
 
-The entire interactive dashboard can be downloaded here.
+The entire interactive dashboard can be downloaded [HERE](https://github.com/DataDonRowam23/HR-Attrition-Analysis/raw/refs/heads/main/HR%20Data%20Analysis%20Project..pbix).
 
 # Dashboard Overview
 
