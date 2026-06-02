@@ -49,10 +49,12 @@ The Power Query Steps in Power Bi utilized to inspect and perform quality checks
 # Executive Summary
 
 Overview of Findings:
+
 In every 7 years, the company's attrition rate across Human Resource, Research & Development and Sales rises with 15% accounting for both male and female employees with those between ages 26-35 leading increasingly as the job roles gets harder, with Salary and Job Role making a greater contriution in Attrition Rate in the Company. 
 While this increase can be broadly attributed to Job Satisfaction, the following sections will explore additional contributing factors and highlight key opportunity areas for improvement.
 
 Insights:
+
 Attrition rises “in every 7 years” and that it is influenced strongly by salary and job role, especially among employees aged 26 to 35, across Human Resources, Research & Development, and Sales.
 It also claims lower salary bands are associated with more attrition, recent hires leave more often than long-tenured employees, and some smaller job-role groups show higher attrition rates
 
