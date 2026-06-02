@@ -29,11 +29,11 @@ An assessment of the employees' loyalty to the company.
 # Attrition by Job Role: 
 An evaluation of professions and gender by Count.
 
-An interactive PowerBI dashboard can be downloaded here.
+An interactive PowerBI dashboard can be downloaded [here](https://github.com/DataDonRowam23/HR-Attrition-Analysis/raw/refs/heads/main/HR%20Data%20Analysis%20Project..pbix).
 
 The dataset utilized to inspect and perform quality checks can be found [here](https://github.com/DataDonRowam23/HR-Attrition-Analysis/raw/refs/heads/main/HR_Data.xlsx).
 
-The Power Query Steps utilized to clean, organize, and prepare data for the dashboard can be found here.
+The Power Query Steps utilized to clean, organize, and prepare data for the dashboard can be found [here](https://github.com/DataDonRowam23/HR-Attrition-Analysis/raw/refs/heads/main/HR%20Data%20Analysis%20Project..pbix).
 
 Targeted metadata regarding various business questions can be found in the power query above.
 
